@@ -10,7 +10,8 @@ The game starts with one of the players and the game ends when one of the player
 <hr>
 If no one wins, then the game is said to be draw.
 <hr>
-![implementation-tic-tac-toe](https://user-images.githubusercontent.com/92047366/160237873-f2974848-27d3-47ed-8995-ab008174478d.png)
+<img src="
+![implementation-tic-tac-toe](https://user-images.githubusercontent.com/92047366/160237873-f2974848-27d3-47ed-8995-ab008174478d.png)">
 <hr>
 <b>Implementation</b>
 <p>In our program the moves taken by the computer and the human are chosen randomly. We use rand() function for this.
