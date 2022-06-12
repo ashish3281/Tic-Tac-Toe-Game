@@ -26,7 +26,9 @@ The above changes are left as an exercise to the readers.
 <hr>
 <h4>OUTPUT</h4>
 <br>
-![Screenshot (269)](https://user-images.githubusercontent.com/92047366/173233809-0f33ccb3-6153-4044-91f9-cc4b968e4a77.png)
+
+![Screenshot (269)](https://user-images.githubusercontent.com/92047366/173233949-9e2fd042-3570-435f-a43a-25d09fee4cb3.png)
+
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/92047366/173233868-b54271d4-61a2-4974-a92b-9672392ade46.png)
 
