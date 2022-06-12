@@ -23,3 +23,6 @@ The above changes are left as an exercise to the readers.
 <hr>
 <h2>Winning Strategy – An Interesting Fact</h2>
 <p>If both the players play optimally then it is destined that you will never lose (“although the match can still be drawn”). It doesn’t matter whether you play first or second.In another ways – “ Two expert players will always draw ”.****</p>
+<hr>
+<h4>OUTPUT</h4>
+![Screenshot (269)](https://user-images.githubusercontent.com/92047366/173233809-0f33ccb3-6153-4044-91f9-cc4b968e4a77.png)
