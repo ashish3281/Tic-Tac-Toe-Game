@@ -26,3 +26,5 @@ The above changes are left as an exercise to the readers.
 <hr>
 <h4>OUTPUT</h4>
 ![Screenshot (269)](https://user-images.githubusercontent.com/92047366/173233809-0f33ccb3-6153-4044-91f9-cc4b968e4a77.png)
+![Screenshot (270)](https://user-images.![Screenshot (271)](https://user-images.githubusercontent.com/92047366/173233834-8dfa4de9-0bd2-4dab-8cec-3bed910f40a7.png)
+githubusercontent.com/92047366/173233831-2b7eea40-d865-4b7f-8148-60037cb25403.png)
