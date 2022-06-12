@@ -25,9 +25,15 @@ The above changes are left as an exercise to the readers.
 <p>If both the players play optimally then it is destined that you will never lose (“although the match can still be drawn”). It doesn’t matter whether you play first or second.In another ways – “ Two expert players will always draw ”.****</p>
 <hr>
 <h4>OUTPUT</h4>
+<br>
 ![Screenshot (269)](https://user-images.githubusercontent.com/92047366/173233809-0f33ccb3-6153-4044-91f9-cc4b968e4a77.png)
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/92047366/173233868-b54271d4-61a2-4974-a92b-9672392ade46.png)
 
 ![Screenshot (271)](https://user-images.githubusercontent.com/92047366/173233878-2ef10375-8519-400c-86d4-64eabe15a8a9.png)
+
+![Screenshot (273)](https://user-images.githubusercontent.com/92047366/173233906-0de0a0f6-a85c-41ee-9bf7-3bfc6ab27412.png)
+
+![Screenshot (274)](https://user-images.githubusercontent.com/92047366/173233914-8922b7b9-73d3-4e50-8812-4fa0e8f7369c.png)
+
 
